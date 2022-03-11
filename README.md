@@ -1,6 +1,6 @@
 ### Ola! Eu sou o Watson Santos 
 
-- 🔭 Hoje eu trabalho como fullstack mas sou melhor no back
+- 🔭 Hoje eu trabalho como fullstack mas sou melhor no back-end
 - 🌱 Estou estudando StrapiJs e Bootstrap
 - 😄 Pronouns: ele/dele
 <div align="center">
