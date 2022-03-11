@@ -2,7 +2,6 @@
 
 - 🔭 Hoje eu trabalho como fullstack mas sou melhor no back-end
 - 🌱 Estou estudando StrapiJs e Bootstrap
-- 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/WatsonSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WatsonSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
