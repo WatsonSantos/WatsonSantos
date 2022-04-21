@@ -15,7 +15,7 @@
    <img align="center" alt="Watson-Bootstrap" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Watson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Watson-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://mail.google.com/mail/u/0/#sent/KtbxLwGrVJBxDWWqcWJJHDkQBXzsPzGShL?projector=1&messagePartId=0.10">
+    <img align="right" alt="Watson-pic" height="150" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/1995/1995485.png">
 </div>
 <hr>
 <div> 
