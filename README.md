@@ -1,7 +1,7 @@
 ### Ola! Eu sou o Watson Santos 
 
-- 🔭 Hoje eu trabalho como fullstack mas sou melhor no back-end
-- 🌱 Estou estudando StrapiJs e Bootstrap
+- 🔭 Hoje eu trabalho como fullstack mas com mais inclinação para o backend.
+- 🌱 Estou estudando StrapiJs e Bootstrap.
 <div align="center">
   <a href="https://github.com/WatsonSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WatsonSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
