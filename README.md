@@ -1,6 +1,6 @@
 ### Ola! Eu sou o Watson Santos 
 
-- 🔭 Trabalho como Programador Fullstack com habilidades no HTML, Javascript, CSS(Bootstrap), Node.js, Python.
+- 🔭 Trabalho como Programador Fullstack com habilidades no HTML, Javascript, CSS, Bootstrap, Node.js, Python.
 - 🌱 Me encontro atualmente estudano Strapi.js e React.js.
 <div align="center">
   <a href="https://github.com/WatsonSantos">
