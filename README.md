@@ -12,11 +12,11 @@
   <img align="center" alt="Watson-Node Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Watson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Watson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Watson-Bootstrap" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Watson-Bootstrap" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Watson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Watson-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="right" alt="Watson-pic" height="150" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/1995/1995485.png">
-  <img align="right" alt="Watson-react-js" height="150" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png">
+  <img align="right" alt="Watson-pic" height="150" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/1995/1995485.png">
+  <img align="right" alt="Watson-react-js" height="150" style="border-radius:50px;" src="https://www.flaticon.com/free-icon/physics_1126012">
   
 </div>
 <hr>
