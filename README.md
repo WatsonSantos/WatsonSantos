@@ -1,7 +1,7 @@
-### Ola! Eu sou o Watson Santos 
+### Hi, my name is Watson Santos. I love programming and Technology. I like to learn more and more.
 
-- 🔭 Trabalho como Programador Fullstack.
-- 🌱 Me encontro atualmente estudando Next.js...
+- 🛠️ I'm a Fullstack Developer
+- 💡At this moment I'm learning Next.js
 <div align="center">
   <a href="https://github.com/WatsonSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WatsonSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
