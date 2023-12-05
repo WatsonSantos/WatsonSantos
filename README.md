@@ -2,7 +2,7 @@
 
 <br>
 <br>
-<br>
+
 - 🛠️ Fullstack Developer
 - 💡At this moment I'm learning Next.js with Typscript
 <div align="center">
