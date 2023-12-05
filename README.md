@@ -1,7 +1,7 @@
-### Hi, my name is Watson Santos. I love programming and Technology. I like to learn more and more.
+### Career developed in Programming, working as a Fullstack developer with experience in JavaScript, Node.js, React.js, Next.js, Bootstrap, Tailwind, among others. I've been in the programming world for about 4 years. I hold a degree in Computer Engineering. I love technology, programming, and the continuous pursuit of learning.
 
-- 🛠️ I'm a Fullstack Developer
-- 💡At this moment I'm learning Next.js
+- 🛠️ Fullstack Developer
+- 💡At this moment I'm learning Next.js with Typscript
 <div align="center">
   <a href="https://github.com/WatsonSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WatsonSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
