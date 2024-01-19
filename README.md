@@ -29,6 +29,7 @@
    <a href="https://www.instagram.com/watson_santos1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:watsontavares72@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCynIbfG7g4TBZZApwXpHhPw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  
   ![Snake animation](https://github.com/WatsonSantos/WatsonSantos/blob/output/github-contribution-grid-snake.svg)
  
 </div>
