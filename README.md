@@ -1,4 +1,4 @@
-<div align="center">Career developed in Programming, working as a Fullstack developer with experience in JavaScript, Node.js, React.js, Next.js, Bootstrap, Tailwind, among others. I've been in the programming world for about 4 years. I hold a degree in Computer Engineering. I love technology, programming, and the continuous pursuit of learning.</div>
+![image](https://github.com/WatsonSantos/WatsonSantos/assets/87064395/e789645e-db78-430c-8a9f-8444504a5782)<div align="center">Career developed in Programming, working as a Fullstack developer with experience in JavaScript, Node.js, React.js, Next.js, Bootstrap, Tailwind, among others. I've been in the programming world for about 4 years. I hold a degree in Computer Engineering. I love technology, programming, and the continuous pursuit of learning.</div>
 
 <br>
 <br>
@@ -15,6 +15,8 @@
   <img align="center" alt="Watson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Watson-Typescript" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/64px-Typescript.svg.png">
   <img align="center" alt="Watson-Node Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Watson-React JS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png">
+   <img align="center" alt="Watson-Next JS" height="30" width="40" src="https://cdn.sanity.io/images/3do82whm/next/4b1f008289a88f4438a1c983fb32cf1a636d9d0e-1000x667.png">
   <img align="center" alt="Watson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Watson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Watson-Tailwindcss" height="30" width="40" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg">
