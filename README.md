@@ -1,4 +1,4 @@
-![image](https://github.com/WatsonSantos/WatsonSantos/assets/87064395/e789645e-db78-430c-8a9f-8444504a5782)<div align="center">Career developed in Programming, working as a Fullstack developer with experience in JavaScript, Node.js, React.js, Next.js, Bootstrap, Tailwind, among others. I've been in the programming world for about 4 years. I hold a degree in Computer Engineering. I love technology, programming, and the continuous pursuit of learning.</div>
+<div align="center">Career developed in Programming, working as a Fullstack developer with experience in JavaScript, Node.js, React.js, Next.js, Bootstrap, Tailwind, among others. I've been in the programming world for about 4 years. I hold a degree in Computer Engineering. I love technology, programming, and the continuous pursuit of learning.</div>
 
 <br>
 <br>
