@@ -1,4 +1,4 @@
-<div align="center">Career developed in Programming, working as a Fullstack developer with experience in JavaScript, Node.js, React.js, Next.js, Bootstrap, Tailwind, among others. I've been in the programming world for about 4 years. I hold a degree in Computer Engineering. I love technology, programming, and the continuous pursuit of learning.</div>
+<div align="center">Hello, I embarked on the world of programming in 2018 when I went to university to study Computer Engineering. There I met people and developed skills that help me develop projects and solutions in programming. Today I'm a Fullstack developer with React.js and Node.js.</div>
 
 <br>
 <br>
